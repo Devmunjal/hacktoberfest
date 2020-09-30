@@ -1,11 +1,3 @@
-Your very first Open Source contribution.
+Hey , I am Dev from haryana and i have knowledge about Python ,Nodejs,ReactJs,Javascript and i am looking for contribut with you. 
 
-How
-Click fork on top-right hand corner.
-Edit the README.md.
-Add your name and Github URL under the Contributors section.
-Create a pull request. 
-Done!
-Example
-- [Imaapreet Kaur](https://github.com/Imaanpreet)
-Note: If you're still having trouble, follow this simple guide step-by-step.
+GitHub Url : https://github.com/Devmunjal 
